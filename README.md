@@ -1,6 +1,6 @@
 #Sakshi chnadrashekha bhavsar
 
-This Case Study is Anb=gular 13 Framworks Tranning 
+This Case Study is Angular 13 Framworks Tranning 
 
 # Mytest 
 
